@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2022",
+  "version": "1.0.0",
+  "description": "Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Russell/adventOfCode2022.git"
+  },
+  "author": "Brian Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Russell/adventOfCode2022/issues"
+  },
+  "homepage": "https://github.com/Mr-Russell/adventOfCode2022#readme",
+  "type": "module"
+}
