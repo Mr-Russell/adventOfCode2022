@@ -13,6 +13,8 @@ for (let i = 0; i < sections.length; i += 2){
     // Or
     // If elf1's Min is Greater Than elf 2's Max
     // Then neither can possibly overlap
+    // Check for both, and then return the opposite
+    // (Return Opposite because we want to count overlaps)
     if (!(elf1[1] < elf2[0] || elf1[0] > elf2[1])){
     overlaps++
     }
